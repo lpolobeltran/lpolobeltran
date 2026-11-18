@@ -1,14 +1,9 @@
 <h1 align="center">Hola, soy Luis Felipe 👋 </h1> 
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/luispolofb/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
-
-<a href = "mailto:luispolofb@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="luispolofb@gmail.com"/></a>
-</p>
-  
-<br>
-<h2>Perfil</h2>
+<h2>Perfil &nbsp;
+<a href="https://www.linkedin.com/in/luispolofb/" target="blank"><img align="absmiddle" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
+<a href = "mailto:luispolofb@gmail.com" target="blank"><img align="absmiddle" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="luispolofb@gmail.com"/></a>
+</h2>
 <!--Intro start-->
 
 <p align="left">
