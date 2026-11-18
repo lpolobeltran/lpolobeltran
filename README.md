@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋  soy Orlando / unsimpleDev ✨ </h1> 
+<h1 align="center">Hola 👋  soy Luis Felipe ✨ </h1> 
 
 <p align="left">
   <a href="https://www.youtube.com/@unsimpledev" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@unsimpledev"  /></a>
@@ -25,11 +25,11 @@
   </p>
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<h2 >Tecnologías actualmente conocidas</h2>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=androidstudio,c,cs,cpp,java,php,dart,flutter,py,dotnet,css,html,js,nodejs,mysql,sqlite,firebase,gtk,git,github,docker,materialui,postman,eclipse,vscode,bash,linux,ai,ps&perline=12" />
+    <img src="https://skillicons.dev/icons?i=python,css,html,js,mysql,sqlite,git,github,postman,vscode,angular,matlab&perline=12" />
   </a>
 </p>
 <br>
