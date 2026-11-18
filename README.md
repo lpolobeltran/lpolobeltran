@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/luispolofb/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/></a>
 
-<a href = "mailto:luispolofb@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="luispolofb@gmail.com"  /></a>
+<a href = "mailto:luispolofb@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="luispolofb@gmail.com"/></a>
 </p>
   
 <br>
@@ -15,9 +15,8 @@
 🎓 Ingeniero Electrónico
 
 Profesional orientado al desarrollo de software, 
-con experiencia en soporte técnico, integración 
-de sistemas y desarrollo de soluciones 
-tecnológicas. Me caracterizo por el compromiso, 
+con experiencia en soporte e integración de sistemas
+tecnológicos. Me caracterizo por el compromiso, 
 la disciplina y la capacidad para adaptarme a 
 nuevos desafíos. 
 
